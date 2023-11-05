@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
   
   ## ✨Experience
-  2022.04 ~ 2022.10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Korea Scoring Corp](https://www.kscnc.co.kr/index.ks)
+  2022.04 ~ 2022.10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Korea Scoring Corp](https://www.kscnc.co.kr/index.ks)
   <br/><br/>
-  2022.12 ~ 2023.02&nbsp;&nbsp;&nbsp;&nbsp;	[US-PeopleSpace Corp](https://peoplespace.us/))
+  2022.12 ~ 2023.02&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[US-PeopleSpace Corp](https://peoplespace.us/)
   
   <br/>
     
