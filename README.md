@@ -19,8 +19,7 @@ Here are some ideas to get you started:
   
   # Hi! I'm Katie. Junior FE DEVELOPER✨
   <br/>
-[resume](https://serious-scourge-321.notion.site/53ab6d1f7d2a4a52bf359af62591dcef?pvs=4)
-[portfolio](https://serious-scourge-321.notion.site/b9313f30125b4cf6b88edda9c09bdb8d?pvs=4)
+
   <br/>
 
   
@@ -32,6 +31,8 @@ Here are some ideas to get you started:
   <br/>
     
   ## ✨Front-End Developer
+  [resume](https://serious-scourge-321.notion.site/53ab6d1f7d2a4a52bf359af62591dcef?pvs=4)
+  [portfolio](https://serious-scourge-321.notion.site/b9313f30125b4cf6b88edda9c09bdb8d?pvs=4)
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> </a> &nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> </a> &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> </a>&nbsp;
