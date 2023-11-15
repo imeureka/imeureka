@@ -19,7 +19,8 @@ Here are some ideas to get you started:
   
   # Hi! I'm Katie. Junior FE DEVELOPER✨
   <br/>
-
+[resume](https://serious-scourge-321.notion.site/53ab6d1f7d2a4a52bf359af62591dcef?pvs=4)
+[portfolio](https://serious-scourge-321.notion.site/b9313f30125b4cf6b88edda9c09bdb8d?pvs=4)
   <br/>
 
   
