@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 ## 📫  How to reach me
  [🤖resume](https://serious-scourge-321.notion.site/53ab6d1f7d2a4a52bf359af62591dcef?pvs=4)  <br/>
   [✍️portfolio](https://serious-scourge-321.notion.site/b9313f30125b4cf6b88edda9c09bdb8d?pvs=4) <br/>
-[![lky062@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pkiopb@gmail.com)](mailto:lky062@gmail.com) : lky062@gmail.com 
+[![lky06200@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pkiopb@gmail.com)](mailto:lky062@gmail.com) : lky06200@gmail.com 
