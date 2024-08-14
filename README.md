@@ -1,4 +1,4 @@
-### Hi there 👋
+### KATIE 
 
 <!--
 **imeureka/imeureka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 
   <div align=left>
   
-  # Hi! I'm Katie. Junior FE DEVELOPER✨
-  <br/>
+  ## Hi there 👋 I'm Katie. Junior FE DEVELOPER✨
+   ![imeureka's github stats](https://github-readme-stats.vercel.app/api?username=imeureka&show_icons=true)
+
 
   <br/>
+
+
 
   
   ## ✨Experience
@@ -28,25 +31,12 @@ Here are some ideas to get you started:
   <br/><br/>
   2022.12 ~ 2023.02&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[US-PeopleSpace Corp](https://peoplespace.us/)
   
-  <br/>
-    
-  ## ✨Front-End Developer
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> </a> &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> </a> &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> </a>&nbsp;
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=black"/> </a>&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white"/> </a> &nbsp;
 
- 
   
 
-  <br/><br/><br/>
-  ![imeureka's github stats](https://github-readme-stats.vercel.app/api?username=imeureka&show_icons=true)
-
-
+  <br/>
+ 
 
 ## 📫  How to reach me
- [🤖resume](https://serious-scourge-321.notion.site/53ab6d1f7d2a4a52bf359af62591dcef?pvs=4)  <br/>
-  [✍️portfolio](https://serious-scourge-321.notion.site/b9313f30125b4cf6b88edda9c09bdb8d?pvs=4) <br/>
 [![lky06200@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pkiopb@gmail.com)](mailto:lky062@gmail.com) : lky06200@gmail.com 
